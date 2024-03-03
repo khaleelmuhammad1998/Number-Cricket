@@ -1,4 +1,4 @@
-# Number-Cricket
+# Number Cricket
 The classic hand cricket with a little twist.
 
 A simple computer game written in Python for use as an experimental program for coding and learning basic AI. Initially written in C++ as a part of my Grade 12 Computer Science project.
