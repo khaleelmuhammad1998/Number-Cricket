@@ -2,8 +2,8 @@
 The classic hand cricket with a little twist.
 
 A simple computer game written in Python for use as an experimental program for coding and learning basic AI. Initially written in C++ as a part of my Grade 12 Computer Science project.
-<br><br>
-Play Number Cricket from itch.io: https://khaleelmuhd1998.itch.io/numbercricket
+
+Get Number Cricket from itch.io: https://khaleelmuhd1998.itch.io/numbercricket
 
 ## Instructions
 - Download <code>NumberCricket.py</code> from this repository.
@@ -18,4 +18,4 @@ Play Number Cricket from itch.io: https://khaleelmuhd1998.itch.io/numbercricket
 - Click on *Run* button, on the top right corner of the *Editor* panel.
 - Play the game in *Terminal* panel.
 
-Alternatively, you can run the executable for **Microsoft Windows**. Get it from https://github.com/khaleelmuhammad1998/Number-Cricket/releases
+Alternatively, you can run the executable for **Microsoft Windows**. Get it from https://github.com/khaleelmuhammad1998/NumberCricket/releases
